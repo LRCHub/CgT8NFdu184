@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Summer Love",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:36:02.095650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stuck in a Summer Love",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/01_Stuck_in_a_Summer_Love_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Vincenzo Salvia feat. Chrissy Valentine",
+      "has_synced": false,
+      "path": "select/02_Summer_Love_Vincenzo_Salvia_feat._Chrissy_Valentine.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Love (Feat. Chrissy Valentine)",
+      "artist": "Vincenzo Salvia",
+      "has_synced": false,
+      "path": "select/03_Summer_Love_(Feat._Chrissy_Valentine)_Vincenzo_Salvia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Farewell My Summer Love",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Farewell_My_Summer_Love_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Only a) Summer Love",
+      "artist": "REO Speedwagon",
+      "has_synced": false,
+      "path": "select/05_(Only_a)_Summer_Love_REO_Speedwagon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lick Summer Love",
+      "artist": "Hanoi Rocks",
+      "has_synced": false,
+      "path": "select/06_Lick_Summer_Love_Hanoi_Rocks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Medley: Summer Love / Set the Mood (Prelude)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/07_Medley__Summer_Love___Set_the_Mood_(Prelude)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Love\u0000Set The Mood Prelude",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/08_Summer_Love\u0000Set_The_Mood_Prelude_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck in a Summer Love",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/09_Stuck_in_a_Summer_Love_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Shola Ama",
+      "has_synced": false,
+      "path": "select/10_Summer_Love_Shola_Ama.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/11_Summer_Love_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/12_Summer_Love_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Ferdinand fka Left Boy",
+      "has_synced": false,
+      "path": "select/13_Summer_Love_Ferdinand_fka_Left_Boy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Summer_Love_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/15_Summer_Love_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Summer Love",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/16_Summer_Love_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Love",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Love_One_Direction.txt"
+    }
+  ]
+}
